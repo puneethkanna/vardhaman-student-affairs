@@ -1,0 +1,112 @@
+#mainNav{
+    background-color: #FFF;
+}
+
+#mainNav .navbar-brand img{
+    height: 50px;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: #0C1C8C !important;
+}
+
+header.masthead {
+    height: 600px;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero {
+    padding-top: 150px;
+}
+
+.img-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-col p{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 30px 0px 0px 0px;
+}
+
+[class$='-img']{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    border-radius: 50%;
+    box-shadow: 0px 2px 5px #aeaeae;
+}
+.events_img{
+    
+    height:8cm;
+    width:20cm;
+}
+
+/*Landing page images */
+
+.principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
+
+.jabbar-sir-img{ background-image: url('/public/assets//img/jabbar-sir.jpg'); }
+
+.rajanikanth_sir-img{ background-image: url('/public/assets/img/rajanikanth_sir.png'); }
+
+.mallikharjuna_sir-img{ background-image: url('/public/assets/img/mallikarjun_sir.png'); }
+
+.kulkarni-sir-img{ background-image: url('/public/assets/img/kulkarni-sir.jpg'); }
+
+/* CS chapter images */
+
+.pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
+
+.niharika-img{ background-image: url('/public/assets/img/niharika.jpg'); }/*Common*/
+
+.burhan-img{ background-image: url('/public/assets/img/burhan.jpg'); }
+
+.sunayana-img{ background-image: url('/public/assets/img/sunayana.jpg'); }
+
+.prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }/*Common*/
+
+.vaishnavi-img{ background-image: url('/public/assets/img/vaishnavi.jpg'); }/*Common*/
+
+.akash-img{ background-image: url('/public/assets/img/akash.jpg'); }
+
+.shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
+
+.puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }/*Common*/
+
+/* MTT chapter images */
+
+.sulakshana_madam-img{ background-image: url('/public/assets/img/sulakshana_madam.jpg'); }
+
+.manohar-img{ background-image: url('/public/assets/img/manohar.jpeg'); }
+
+.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }/*Common*/
+
+.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }/*Common*/
+
+.adhana-img{ background-image: url('/public/assets/img/adhana.jpg'); }
+
+.pooja-img{ background-image: url('/public/assets/img/pooja.jpg'); }
+
+.hemavardhan-img{ background-image: url('/public/assets/img/hemavardhan.jpg'); }
+
+.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }/*Common*/
+
+.nagaraju-img{ background-image: url('/public/assets/img/nagaraju.jpg'); }
+
+/* WIE Chapter images */
+
+.sangeeta_madam-img{ background-image: url('/public/assets/img/sangeeta_madam.jpeg'); }
+
+.thanmai-img{ background-image: url('/public/assets/img/thanmai.jpeg'); }
+
+.newsletter-pdf{
+    height: 800px;
+    width: 800px;
+}
